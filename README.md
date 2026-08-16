@@ -10,7 +10,7 @@ I recreated it by coding the HTML structure and styling it with CSS.
 - Using media queries for mobile devices
 
 ## Project Demo
-I recorded 3 short videos showing my process:
+I made screenshots showing my process:
 
 1. HTML Structure - How I built the page structure
 <img width="1013" height="767" alt="1000517925" src="https://github.com/user-attachments/assets/e57b5153-0af0-4577-aa2d-97767e436f00" />
@@ -32,15 +32,17 @@ I recorded 3 short videos showing my process:
 
 
   
-3. Final Result** - The responsive landing page on desktop and mobile
-  FOR MOBILE VIEW
+3. Final Result- The responsive landing page on desktop and mobile
+ 
+  
+  # FOR MOBILE VIEW
 <img width="502" height="1039" alt="1000517930" src="https://github.com/user-attachments/assets/c1615a94-b9f7-4225-af13-e542ca09a4f9" />
 <img width="502" height="1039" alt="1000517929" src="https://github.com/user-attachments/assets/47575cdd-d4fc-48fc-8169-83041d7452b5" />
 <img width="502" height="1039" alt="1000517928" src="https://github.com/user-attachments/assets/e5201acd-1692-4a47-92fb-ae06c818fcf7" />
 <img width="502" height="1039" alt="1000517927" src="https://github.com/user-attachments/assets/18f3420f-cd4e-40b9-b6b9-22d98197abbf" />
 
 
-   FOR DESKTOP VIEW
+   # FOR DESKTOP VIEW
 <img width="1440" height="988" alt="1000517935" src="https://github.com/user-attachments/assets/cf73b075-0870-4d34-ad76-01b4d07ef920" />
 <img width="1440" height="867" alt="1000517934" src="https://github.com/user-attachments/assets/bff0a8e7-9926-4e9e-aacb-31963186eaf4" />
 <img width="1440" height="867" alt="1000517933" src="https://github.com/user-attachments/assets/7a079b22-190c-44a8-8065-387d8f49a9a1" />
